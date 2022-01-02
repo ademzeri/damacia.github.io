@@ -260,7 +260,7 @@ padding : 25px 0 0px 20px;
 
 }
 
-input{
+.sign>input{
     margin-left: 20px;
     border:none;
     border-bottom:solid black 1px;
